@@ -1,26 +1,130 @@
-<h2> Hi, I'm Pradhan Shrinivas Kamath! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2>
-<img align="right" src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300"/>
-<p><em>An aspiring Full-Stack Developer from <a href="https://www.rvitm.edu.in">RV University of Technology and Management</a>
-</em></p>
+<h1 align="center">Hi, I'm Pradhan Shrinivas Kamath 👋</h1>
 
-[![Linkedin: Pradhan Shrinivas Kamath](https://img.shields.io/badge/-pradhanshrinivaskamath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradhan-shrinivas-kamath/)](https://www.linkedin.com/in/pradhan-shrinivas-kamath/)
-[![GitHub Pradhan-SKamath](https://img.shields.io/github/followers/pradhan?label=follow&style=social)](https://github.com/Pradhan-SKamath)
+<p align="center">
+  💻 Full-Stack Developer · ☕ Java & 🟨 JavaScript · 🚀 Builder mindset
+</p>
 
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/pradhan-shrinivas-kamath/">LinkedIn</a> ·
+  ⭐ <a href="https://github.com/Pradhan-SKamath">GitHub</a>
+</p>
 
-<img src="https://media1.tenor.com/m/BHVHe66eI_EAAAAC/dragonswap-dragons.gif" width="50"> A little more about me...  
+<hr/>
 
-```javascript
-const Pradhan = {
-  pronouns:[ "he" | "him"],
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Node, Springboot, Hibernate]
-  about: {
-                        nationality: "Indian",
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on Java, Python, React and Javascript"
-}
-```
+<pre><code class="language-js">
+const pradhan = {
+  role: "Full-Stack Developer",
+  pronouns: ["he", "him"],
+  stack: {
+    languages: ["Java", "JavaScript", "Python"],
+    frontend: ["React", "HTML", "CSS", "JavaFX"],
+    backend: ["Node.js", "Spring Boot"],
+    database: ["PostgreSQL"]
+  },
+  tools: ["Git", "GitHub", "Bash"],
+  challenge: "#100DaysOfCode"
+};
+</code></pre>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love learning more about coding and programming</b> so if you want to say <b>hi, I'll be happy to write back to you!</b> :)</em>
+<hr/>
 
----
+<h2>🚀 What I Build</h2>
+<ul>
+  <li>🔹 Full-stack web applications with clean APIs</li>
+  <li>🔐 Secure backends with authentication &amp; RBAC</li>
+  <li>📱 Responsive UIs that feel intuitive</li>
+  <li>🧱 Systems designed for clarity and scale</li>
+</ul>
+
+<hr/>
+
+<h2>📊 GitHub Activity</h2>
+<ul>
+  <li>📈 Consistent contributor</li>
+  <li>🧪 Focused on real-world projects</li>
+  <li>🚢 End-to-end development &amp; deployment</li>
+</ul>
+
+<hr/>
+
+<h2>🧠 Tech Stack</h2>
+
+<h3>💻 Languages</h3>
+<ul>
+  <li>☕ Java</li>
+  <li>🟨 JavaScript</li>
+  <li>🐍 Python</li>
+</ul>
+
+<h3>🎨 Frontend</h3>
+<ul>
+  <li>⚛️ React</li>
+  <li>🌐 HTML</li>
+  <li>🎨 CSS</li>
+  <li>🪟 JavaFX</li>
+</ul>
+
+<h3>⚙️ Backend</h3>
+<ul>
+  <li>🟩 Node.js</li>
+  <li>🌱 Spring Boot</li>
+  <li>🔌 REST APIs</li>
+</ul>
+
+<h3>🗄️ Database</h3>
+<ul>
+  <li>🐘 PostgreSQL</li>
+</ul>
+
+<hr/>
+
+<h2>🤖 AI &amp; Automation</h2>
+<ul>
+  <li>🤝 AI-assisted debugging &amp; refactoring</li>
+  <li>⚡ Rapid prototyping &amp; feature scaffolding</li>
+  <li>🔍 Code review, optimization, and iteration</li>
+  <li>🧠 Using AI to move faster — without cutting corners</li>
+</ul>
+
+<hr/>
+
+<h2>🧰 Tools &amp; IDEs</h2>
+<ul>
+  <li>📝 VS Code</li>
+  <li>💡 IntelliJ IDEA</li>
+  <li>🔧 Git &amp; GitHub</li>
+  <li>🖥️ Bash / CLI</li>
+  <li>📦 NPM</li>
+  <li>🌍 GitHub Pages</li>
+</ul>
+
+<hr/>
+
+<h2>📌 Selected Work</h2>
+<ul>
+  <li>🚀 <strong>Task Manager Web App</strong> — Node.js, PostgreSQL</li>
+  <li>💰 <strong>Expense Tracker API</strong> — Spring Boot, RBAC</li>
+  <li>🗒️ <strong>JavaFX To-Do App</strong> — OOP, animations</li>
+  <li>🌐 <strong>Personal Portfolio</strong> — Responsive, accessible UI</li>
+</ul>
+
+<hr/>
+
+<h2>🌱 Currently</h2>
+<ul>
+  <li>🎯 Improving backend architecture</li>
+  <li>🏗️ Learning scalable system design</li>
+  <li>🔁 Building and shipping consistently</li>
+</ul>
+
+<hr/>
+
+<h2>📬 Connect</h2>
+<ul>
+  <li>📧 Email: <strong>pradhan.skamath@gmail.com</strong></li>
+  <li>💼 LinkedIn: <a href="https://linkedin.com/in/pradhan-shrinivas-kamath">linkedin.com/in/pradhan-shrinivas-kamath</a></li>
+</ul>
+
+<p align="center">
+  <sub>✨ Minimal · Practical · Built to ship</sub>
+</p>
